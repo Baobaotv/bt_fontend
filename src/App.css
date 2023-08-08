@@ -13,3 +13,8 @@
   max-width: 300px;
   margin: auto;
 }
+
+.btn-outline-secondary {
+  background-color: blue;
+  color: white;
+}
